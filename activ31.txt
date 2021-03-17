@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificacion 2
+=======
+modificacion 1
+>>>>>>> actividad3
